@@ -7,14 +7,14 @@
 - 어제보다 성장한 내가 되기
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [17일 - WWDC: Understanding Swift Performance - 1](2022-02/20220217.md) - Fri Feb 18 00:18:35 2022 +0900
 - [15일: Swift Function, Method 공식문서 공부하기](2022-02/20220215.md) - Tue Feb 15 01:33:16 2022 +0900
-- [14일: Swift Type과 Access Control](2022-02/20220214.md) - Mon Feb 14 19:59:03 2022 +0900
 
 ### Categories
 
@@ -27,6 +27,7 @@ _6 TILs and counting..._
 - [11일 - Swift 네이밍 잘 하는 법! (문서번역 & 영상요약)](2022-02/20220211.md)
 - [14일: Swift Type과 Access Control](2022-02/20220214.md)
 - [15일: Swift Function, Method 공식문서 공부하기](2022-02/20220215.md)
+- [17일 - WWDC: Understanding Swift Performance - 1](2022-02/20220217.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
