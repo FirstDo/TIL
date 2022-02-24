@@ -7,14 +7,14 @@
 - 어제보다 성장한 내가 되기
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [24일 Property Observer vs KVO](2022-02/20220224.md) - Thu Feb 24 20:50:03 2022 +0900
 - [23일: Properties](2022-02/20220222.md) - Wed Feb 23 20:26:00 2022 +0900
-- [21일: MVC 디자인 패턴](2022-02/20220221.md) - Mon Feb 21 17:33:07 2022 +0900
 
 ### Categories
 
@@ -31,6 +31,7 @@ _10 TILs and counting..._
 - [18일 - 구조체와 맴버와이즈 이니셜라이저](2022-02/20220218.md)
 - [21일: MVC 디자인 패턴](2022-02/20220221.md)
 - [23일: Properties](2022-02/20220222.md)
+- [24일 Property Observer vs KVO](2022-02/20220224.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
