@@ -7,14 +7,14 @@
 - 어제보다 성장한 내가 되기
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [28일- Singleton](2022-02/20220228.md) - Mon Feb 28 23:58:26 2022 +0900
 - [25일 - 구조체와 클래스](2022-02/20220225.md) - Fri Feb 25 18:13:39 2022 +0900
-- [24일 Property Observer vs KVO](2022-02/20220224.md) - Thu Feb 24 20:50:03 2022 +0900
 
 ### Categories
 
@@ -33,6 +33,7 @@ _12 TILs and counting..._
 - [23일: Properties](2022-02/20220222.md)
 - [24일 Property Observer vs KVO](2022-02/20220224.md)
 - [25일 - 구조체와 클래스](2022-02/20220225.md)
+- [28일- Singleton](2022-02/20220228.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
