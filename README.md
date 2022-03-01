@@ -7,7 +7,7 @@
 - 어제보다 성장한 내가 되기
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _13 TILs and counting..._
 ### Categories
 
 - [2022-02](#2022-02)
+- [2022-03](#2022-03)
 
 ### [2022-02](#2022-02)
 - [7일: GitHub Action을 이용한 TIL 자동화 작성법](2022-02/20220207.md)
@@ -34,6 +35,9 @@ _13 TILs and counting..._
 - [24일 Property Observer vs KVO](2022-02/20220224.md)
 - [25일 - 구조체와 클래스](2022-02/20220225.md)
 - [28일- Singleton](2022-02/20220228.md)
+
+### [2022-03](#2022-03)
+- [1일: ViewController 생성시 프로퍼티 초기화 하는 방법](2022-03/20220301.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
