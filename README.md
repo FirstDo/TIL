@@ -7,7 +7,7 @@
 - 어제보다 성장한 내가 되기
 
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _14 TILs and counting..._
 
 ### [2022-03](#2022-03)
 - [1일: ViewController 생성시 프로퍼티 초기화 하는 방법](2022-03/20220301.md)
+- [2일 - 클로져와 값 캡쳐, 그리고 캡쳐리스트](2022-03/20330303.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
