@@ -7,14 +7,14 @@
 - 어제보다 성장한 내가 되기
 
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [3/10일 세션주제 - UML](2022-03/20220310.md) - Thu Mar 10 18:44:16 2022 +0900
 - [28일- Singleton](2022-02/20220228.md) - Mon Feb 28 23:58:26 2022 +0900
-- [25일 - 구조체와 클래스](2022-02/20220225.md) - Fri Feb 25 18:13:39 2022 +0900
 
 ### Categories
 
@@ -42,6 +42,7 @@ _18 TILs and counting..._
 - [4일 Present Modaly의 presentation Options](2022-03/20220304.md)
 - [7일 Protocol과 Delegate](2022-03/20220307.md)
 - [8일 Interface Builder의 IBOutlet 연결할 때  Weak or String 선택](2022-03/20220308.md)
+- [3/10일 세션주제 - UML](2022-03/20220310.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
