@@ -7,14 +7,14 @@
 - 어제보다 성장한 내가 되기
 
 
-_21 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [14일 바닥부터 알아보는 Unit Test와 TDD](2022-03/20220314.md) - Sun Mar 13 21:21:08 2022 +0900
-- [11일 Delegate와 Weak (순환참조가 무조건 일어나나요?)](2022-03/20220311.md) - Fri Mar 11 03:46:35 2022 +0900
+- [18일 - 클로져의 어노테이션: @escaping, @autoclosures](2022-03/20220318.md) - Fri Mar 18 19:09:48 2022 +0900
+- [17일 - 클로져의 축약](2022-03/20220317.md) - Fri Mar 18 17:00:57 2022 +0900
 
 ### Categories
 
@@ -45,6 +45,9 @@ _21 TILs and counting..._
 - [3/10일 세션주제 - UML](2022-03/20220310.md)
 - [11일 Delegate와 Weak (순환참조가 무조건 일어나나요?)](2022-03/20220311.md)
 - [14일 바닥부터 알아보는 Unit Test와 TDD](2022-03/20220314.md)
+- [15일 OOP와 SOLID원칙](2022-03/20220315.md)
+- [17일 - 클로져의 축약](2022-03/20220317.md)
+- [18일 - 클로져의 어노테이션: @escaping, @autoclosures](2022-03/20220318.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
