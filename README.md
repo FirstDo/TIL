@@ -7,14 +7,14 @@
 - 어제보다 성장한 내가 되기
 
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Automatic Reference Counting](2022-03/20220329.md) - Wed Mar 30 18:28:27 2022 +0900
 - [메모리의 구조](2022-03/20220328.md) - Mon Mar 28 23:40:59 2022 +0900
-- [View를 업데이트 시키는 방법들](2022-03/20220324.md) - Fri Mar 25 15:15:39 2022 +0900
 
 ### Categories
 
@@ -52,6 +52,7 @@ _28 TILs and counting..._
 - [SafeArea와 LayoutMargins](2022-03/20220322.md)
 - [View를 업데이트 시키는 방법들](2022-03/20220324.md)
 - [메모리의 구조](2022-03/20220328.md)
+- [Automatic Reference Counting](2022-03/20220329.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
