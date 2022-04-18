@@ -8,7 +8,14 @@
 ---
 
 <details>
-<summary>[2022-02]</summary>
+<summary>WWDC</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>2022-02</summary>
 <div markdown="1">
 
 - [7일: GitHub Action을 이용한 TIL 자동화 작성법](2022-02/20220207.md)
@@ -29,7 +36,7 @@
 </details>
 
 <details>
-<summary>[2022-03]</summary>
+<summary>2022-03</summary>
 <div markdown="1">
 
 - [1일: ViewController 생성시 프로퍼티 초기화 하는 방법](2022-03/20220301.md)
@@ -53,7 +60,7 @@
 </details>
 
 <details>
-<summary>[2022-04]</summary>
+<summary>2022-04</summary>
 <div markdown="1">
   
 - [11일 JSON과 Codable](2022-04/20220411.md)
