@@ -55,6 +55,7 @@
 - [View를 업데이트 시키는 방법들](2022-03/20220324.md)
 - [메모리의 구조](2022-03/20220328.md)
 - [Automatic Reference Counting](2022-03/20220329.md)
+- [WWDC: Architecting Your App for Multiple Windows](2022-03/20220331.md)
 
 </div>
 </details>
@@ -67,6 +68,6 @@
 - [12일 Modern Table Views 공부하기(1)](2022-04/20220412.md)
 - [14일 Modern Table Views 공부하기(2)](2022-04/20220414.md)
 - [15일 Date 타입 공부하기](2022-04/20220415.md)
-
+- [18일 WWDC Accessibility Inspector](2022-04/20220418.md)
 </div>
 </details>
