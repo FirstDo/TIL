@@ -5,23 +5,12 @@
 - 내가 설명하지 못하는 것은 내가 아는 것이 아니다
 - 배운 내용은 금방 잊어버린다
 - 어제보다 성장한 내가 되기
-
-
-_29 TILs and counting..._
-
 ---
 
-### 2 most recent TILs
+<details>
+<summary>[2022-02]</summary>
+<div markdown="1">
 
-- [Automatic Reference Counting](2022-03/20220329.md) - Wed Mar 30 18:28:27 2022 +0900
-- [메모리의 구조](2022-03/20220328.md) - Mon Mar 28 23:40:59 2022 +0900
-
-### Categories
-
-- [2022-02](#2022-02)
-- [2022-03](#2022-03)
-
-### [2022-02](#2022-02)
 - [7일: GitHub Action을 이용한 TIL 자동화 작성법](2022-02/20220207.md)
 - [8일: 클린코드란 무엇일까...?](2022-02/20220208.md)
 - [10일: 첫번째 코드리뷰 후 배운점](2022-02/20220210.md)
@@ -36,7 +25,13 @@ _29 TILs and counting..._
 - [25일 - 구조체와 클래스](2022-02/20220225.md)
 - [28일- Singleton](2022-02/20220228.md)
 
-### [2022-03](#2022-03)
+</div>
+</details>
+
+<details>
+<summary>[2022-03]</summary>
+<div markdown="1">
+
 - [1일: ViewController 생성시 프로퍼티 초기화 하는 방법](2022-03/20220301.md)
 - [3일 - 클로져와 값 캡쳐, 그리고 캡쳐리스트](2022-03/20220303.md)
 - [4일 Present Modaly의 presentation Options](2022-03/20220304.md)
@@ -54,6 +49,17 @@ _29 TILs and counting..._
 - [메모리의 구조](2022-03/20220328.md)
 - [Automatic Reference Counting](2022-03/20220329.md)
 
-[1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-[2]: https://github.com/jbranchaud/til
+</div>
+</details>
 
+<details>
+<summary>[2022-04]</summary>
+<div markdown="1">
+  
+- [11일 JSON과 Codable](2022-04/20220411.md)
+- [12일 Modern Table Views 공부하기(1)](2022-04/20220412.md)
+- [14일 Modern Table Views 공부하기(2)](2022-04/20220414.md)
+- [15일 Date 타입 공부하기](2022-04/20220415.md)
+
+</div>
+</details>
