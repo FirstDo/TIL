@@ -69,5 +69,6 @@
 - [14일 Modern Table Views 공부하기(2)](2022-04/20220414.md)
 - [15일 Date 타입 공부하기](2022-04/20220415.md)
 - [18일 WWDC Accessibility Inspector](2022-04/20220418.md)
+- [19일 Locale, Calendar, DateFormatter 타입 공부하기](2022-04/20220419.md)
 </div>
 </details>
