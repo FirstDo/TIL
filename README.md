@@ -70,5 +70,6 @@
 - [15일 Date 타입 공부하기](2022-04/20220415.md)
 - [18일 WWDC Accessibility Inspector](2022-04/20220418.md)
 - [19일 Locale, Calendar, DateFormatter 타입 공부하기](2022-04/20220419.md)
+- [22일 동시성 프로그래밍 - 헷갈리는 개념 다시 잡기](2022-04/20220422.md)
 </div>
 </details>
