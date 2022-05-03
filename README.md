@@ -80,6 +80,7 @@
 <summary>2022-05</summary>
 <div markdown="1">
   
- - [2일 DispatchSourceTimer 공부하기](2022-05/20220502.,d)
+ - [2일 DispatchSourceTimer 공부하기](2022-05/20220502.md)
+ - [3일 Timer 공부하기](2022-05/20220503.md)
 </div>
 </details>
