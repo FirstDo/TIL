@@ -85,5 +85,7 @@
  - [5일 Using Responders and the Responder Chain to Handle Events](2022-05/20220505.md)
  - [9일 UIKit에서 SwiftUI의 Preview 사용하기](2022-05/20220509.md)
  - [10일 URLSession 공부하기 (1)](2022-05/20220510.md)
+ - [12일 UICollectionView 공부 FlowLayout](2022-05/20220512.md)
+ - [13일 UICollectionView 공부 CompostionalLayout(1)](2022-05/20220513.md)
 </div>
 </details>
