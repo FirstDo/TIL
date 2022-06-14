@@ -113,5 +113,6 @@
 - [11일 Combine - Operator: Mathematical Operations](2022-06/20220611.md)
 - [12일 Combine - Operator: Applying Matching Criteria](2022-06/20220612.md)
 - [13일 Combine - Operator: Applying Sequence Operations](2022-06/20220613.md)
+- [14일 Combine - Operator: Selecting Specific Elements](2022-06/20220614.md)
 </div>
 </details>
