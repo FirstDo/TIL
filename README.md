@@ -112,5 +112,6 @@
 - [10일 Combine - Operator: Reducing](2022-06/20220610.md)
 - [11일 Combine - Operator: Mathematical Operations](2022-06/20220611.md)
 - [12일 Combine - Operator: Applying Matching Criteria](2022-06/20220612.md)
+- [13일 Combine - Operator: Applying Sequence Operations](2022-06/20220613.md)
 </div>
 </details>
