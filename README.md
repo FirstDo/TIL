@@ -121,5 +121,6 @@
 - [19일 Combine - Operator: assign & Key Paths](2022-06/20220619.md)
 - [20일 Combine - Publisher, Subscriber, Subscription Custom하기](2022-06/20220620.md)
 - [21일 Combine - UIKit에서 Combine 편하게 쓰기](2022-06/20220621.md)
+- [22일 Combine - UIKit + MVVM + Combine 예제](2022-06/20220622.md)
 </div>
 </details>
