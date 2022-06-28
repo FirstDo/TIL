@@ -117,5 +117,6 @@
 - [15일 Combine - Operator: CombineLatest](2022-06/20220615.md)
 - [16일 Combine - Operator: Merge & Zip](2022-06/20220616.md)
 - [17일 Combine - Operator: Handling Errors](2022-06/20220617.md)
+- [18일 Combine - Operator: Controlling Timing](2022-06/20220618.md)
 </div>
 </details>
