@@ -139,5 +139,6 @@
 - [15일 Swift - ARC](2022-07/20220715)
 - [16일 iOS - Custom UICollectionViewListCell](2022-07/20220716)
 - [17일 iOS - Local Notification](2022-07/20220716)
+- [22일 Swift - 구조체와 클래스](2022-07/20220722)
 </div>
 </details>
